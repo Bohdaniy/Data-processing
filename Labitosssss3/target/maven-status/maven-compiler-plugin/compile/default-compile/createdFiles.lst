@@ -1,0 +1,12 @@
+Crud\FileCrud.class
+Crud\Lab2CrudInterface.class
+FileIO\FileIOInterface.class
+Servlet\HelloServlet.class
+FileIO\Main.class
+Mock\Lab2CrudMock.class
+FileIO\FileIO.class
+Servlet\Servet1.class
+Entity\Entity.class
+Servlet\ServletConfig.class
+Servlet\ServletConfigInterface.class
+Servlet\NotFoundServlet.class
